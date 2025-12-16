@@ -14,7 +14,7 @@ Additional Libraries/Extensions:
 
 (put a list of required extensions so that the user knows that they need to download extra features)
 
------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 Known bugs:
 
