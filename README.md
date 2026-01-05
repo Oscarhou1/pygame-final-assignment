@@ -1,5 +1,4 @@
 # Pygame Project
-
 ## This is where you will submit your project
 
 1. Complete the project plan BEFORE coding begins
