@@ -1,6 +1,51 @@
 # oscar_shoot_student_style.py
-# A simple shooter made by Oscar (student version)
 
+'''
+-----------------------------------------------------------------------------
+Program Name: Oscar shooting pygame
+Program Description:
+to press enter to shooting and your can also do more things when you run it
+-----------------------------------------------------------------------------
+References:
+githhub
+fieds
+(put a link to your reference here but also add a comment in the code below where you used the reference)
+
+-----------------------------------------------------------------------------
+
+Additional Libraries/Extensions:
+
+(put a list of required extensions so that the user knows that they need to download extra features)
+
+-----------------------------------------------------------------------------
+
+Known bugs:
+
+(put a list of known bugs here, if you have any)
+
+----------------------------------------------------------------------------
+
+
+Program Reflection:
+I think this project deserves a level 4+  because every requiements I had already meet it
+
+ Level 3 Requirements Met:
+•
+•
+•
+•
+•
+•
+
+Features Added Beyond Level 3 Requirements:
+press k to shoot
+• have class and sprite to shoot
+•
+•
+•
+•
+-----------------------------------------------------------------------------
+'''
 
 import pygame
 import random
@@ -294,3 +339,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
